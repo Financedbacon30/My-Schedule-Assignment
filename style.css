@@ -1,9 +1,10 @@
 header{
     width: auto;
     height: 100px;
-    background-color: rgb(170, 169, 169);
+    background-color: white;
     text-align: center;
     font-size: x-large;
+    border: 1px solid black;
     
    
 
